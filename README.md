@@ -22,7 +22,7 @@
 
 OR
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhisheksharma98/merged-pdf/main/app.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://merged-pdf-online.streamlit.app/)
 
 ## How to use the app:
 
